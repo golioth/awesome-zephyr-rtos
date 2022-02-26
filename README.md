@@ -66,6 +66,8 @@
 - [Edge Impulse](https://github.com/edgeimpulse/example-standalone-inferencing-zephyr) - Machine learning on edge devices.
 - [Golioth](https://github.com/golioth/zephyr-sdk) - Device Management & cloud enablement platform.
 - [Memfault](https://github.com/memfault/memfault-firmware-sdk/tree/master/ports/zephyr) - Cloud-based debugging & observability.
+- [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Track personal Bluetooth devices via Apple's massive Find My network.
+- [send-my-sensor](https://github.com/koenvervloesem/send-my-sensor) - Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.
 
 ### Networking & Protocols
 
@@ -91,6 +93,7 @@
 ### Misc
 
 - [ecfw-zephyr](https://github.com/intel/ecfw-zephyr) - Embedded Controller for low-level tasks on a motherboard like power sequencing.
+- [grbl](https://github.com/iwasz/zephyr-grbl) -Motion control for CNC milling.
 - [lvgl](https://github.com/zephyrproject-rtos/lvgl) - Complete graphics library.
 - [lz4](https://github.com/zephyrproject-rtos/lz4) - Extremely Fast Compression algorithm.
 - [pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr) - Smartwatch operating system.
@@ -106,6 +109,7 @@
 
 ### Build & Config
 
+- [bazel2zephyr](https://github.com/GatCode/bazel2zephyr) - Embedded/bare-metal development using bazel.
 - CMake
 - Device Tree
 - KConfig
@@ -164,7 +168,7 @@ Note: the official SDK includes several compilers.
 - [Zephyr Developer Summit - June 2021](https://www.youtube.com/playlist?list=PLzRQULb6-ipG39tVb-DEkIoSS5wQlbK6i)
 - [Embedded Linux Conference/Open Source Summit (Sept. 2021)](https://www.youtube.com/playlist?list=PLzRQULb6-ipEfltSXvM0xBuU84B8-sum7)
 - [Zephyr videos from Golioth](https://www.youtube.com/playlist?list=PLXGira7Qd83DljhI7F3euGgsf4hbvhoNp)
-- [#zephyrrtos](https://www.youtube.com/hashtag/zephyrrtos) - Videos tagged with #zephyrrtos
+- [#zephyrrtos](https://www.youtube.com/hashtag/zephyrrtos) - Videos tagged with `#zephyrrtos`.
 
 
 ## Learning Material
