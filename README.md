@@ -71,14 +71,14 @@
 
 - [canopennode](https://github.com/zephyrproject-rtos/canopennode) - CANopen Stack.
 - [civetweb](https://github.com/zephyrproject-rtos/civetweb) - Embeddable web server.
-- CBOR - Concise Binary Object Representation, see https://cbor.io/.
+- [CBOR](https://cbor.io/) - Concise Binary Object Representation.
   - [tinycbor](https://github.com/zephyrproject-rtos/tinycbor) - Small CBOR library.
   - [QCBOR](https://github.com/laurencelundblade/QCBOR) - Comprehensive CBOR library.
   - [zcbor](https://github.com/NordicSemiconductor/zcbor/) - CBOR library that includes support for CDDL.
 - [cosy](https://github.com/lindemer/cozy) - CBOR Object Signing and Encryption (COSE).
 - [greybus-for-zephyr](https://github.com/cfriedt/greybus-for-zephyr) - Protocol for hotpluggable devices.
 - [nanopb](https://github.com/zephyrproject-rtos/nanopb) - Protocol Buffers for Embedded Systems.
-- [openthread](https://github.com/zephyrproject-rtos/openthread) - Thread mesh networking protocol
+- [openthread](https://github.com/zephyrproject-rtos/openthread) - Thread mesh networking protocol.
 - [pjon](https://github.com/gioblu/PJON) - Multi-master, multi-media network protocol.
 
 ### Security
