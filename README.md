@@ -1,3 +1,6 @@
+![Dark Logo](assets/awesome_zephyr_rtos_logo_dark.png#gh-dark-mode-only)
+![Ligh Logo](assets/awesome_zephyr_rtos_logo_light.png#gh-light-mode-only)
+
 # 🪁 Awesome Zephyr RTOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The Zephyr RTOS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
