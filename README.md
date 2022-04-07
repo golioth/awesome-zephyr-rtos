@@ -177,6 +177,7 @@ Note: the official SDK includes several compilers.
 ## Learning Material
 
 - [Tutorial for Beginners](https://github.com/maksimdrachov/zephyr-rtos-tutorial)
+- [Nordic Developer Academy](https://www.nordicsemi.com/Support/Nordic-Developer-Academy)
 
 
 ## Contribute
