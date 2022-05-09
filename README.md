@@ -67,7 +67,7 @@
 
 - [Anjay-zephyr](https://github.com/AVSystem/Anjay-zephyr) - C implementation of the client-side OMA LwM2M protocol.
 - [Edge Impulse](https://github.com/edgeimpulse/example-standalone-inferencing-zephyr) - Machine learning on edge devices.
-- [Golioth](https://github.com/golioth/zephyr-sdk) - Device Management & cloud enablement platform.
+- [Golioth](https://github.com/golioth/golioth-zephyr-sdk) - Device Management & cloud enablement platform.
 - [Memfault](https://github.com/memfault/memfault-firmware-sdk/tree/master/ports/zephyr) - Cloud-based debugging & observability.
 - [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Track personal Bluetooth devices via Apple's massive Find My network.
 - [send-my-sensor](https://github.com/koenvervloesem/send-my-sensor) - Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.
