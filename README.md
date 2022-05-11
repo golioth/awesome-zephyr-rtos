@@ -88,6 +88,7 @@
 
 ### Security
 
+- [aerology](https://github.com/Linaro/aerology) - Inspect Zephyr and TF-M applications, post mortem.
 - [mbed TLS](https://github.com/zephyrproject-rtos/mbedtls) - C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols.
 - [MCUboot](https://github.com/zephyrproject-rtos/mcuboot) - A secure bootloader for 32-bits microcontrollers.
 - [TF - M](https://github.com/zephyrproject-rtos/trusted-firmware-m) - Platform Security Architecture (PSA) for ARMv7-M and Armv8-M.
@@ -132,6 +133,7 @@ Note: the official SDK includes several compilers.
 
 ### Editors & IDEs
 
+- [Ardesco-VSCode-Extension](https://github.com/Ericsson/Ardesco-VSCode-Extension) - Ericsson Ardesco device development extension.
 - [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin)
 - [nRF Connect for VS Code](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect)
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
