@@ -141,6 +141,7 @@ Note: the official SDK includes several compilers.
 - [VS Code importer](https://github.com/smrtos/Zephyr2VSC)
 - [Zephyrus](https://github.com/tuScale/vscode-zephyrus)
 - [Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) - A register viewer for CMSIS-SVD files and an RTOS data viewer
+- [CMake Zephyr helpers](https://github.com/thirdpin/Zephyr-CMake-Helpers) - Enhance CMake automation for use with VS Code.
 
 ### Flash, Debug & Test
 
