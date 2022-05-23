@@ -105,6 +105,7 @@
 - [linaro_sensor_pipeline](https://github.com/microbuilder/linaro_sensor_pipeline) - Secure data pipelines.
 - [sof](https://github.com/zephyrproject-rtos/sof) - Audio Digital Signal Processing (DSP) firmware infrastructure and SDK.
 - [tflite-micro](https://github.com/zephyrproject-rtos/tflite-micro) - TensorFlow Lite for Microcontrollers.
+- [zbus](https://github.com/zephyr-bus/zbus) - Inter thread communication bus.
 - [zscilib](https://github.com/zephyrproject-rtos/zscilib) - Scientific computing library.
 - [zcalendar](https://github.com/bpbradley/zcalendar) - Calendar API with RTC integration.
 - [zmk](https://github.com/zmkfirmware/zmk) - Keyboard firmware with a rich featureset and broad hardware support.
