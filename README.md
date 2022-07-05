@@ -104,6 +104,7 @@
 - [zephyr-rust](https://github.com/tylerwhall/zephyr-rust) - API bindings, libstd, and Cargo integration for Rust.
 - [linaro_sensor_pipeline](https://github.com/microbuilder/linaro_sensor_pipeline) - Secure data pipelines.
 - [sof](https://github.com/zephyrproject-rtos/sof) - Audio Digital Signal Processing (DSP) firmware infrastructure and SDK.
+- [spinner](https://github.com/teslabs/spinner) - Motor control firmware based on the Field Oriented Control (FOC) principles.
 - [tflite-micro](https://github.com/zephyrproject-rtos/tflite-micro) - TensorFlow Lite for Microcontrollers.
 - [zbus](https://github.com/zephyr-bus/zbus) - Inter thread communication bus.
 - [zscilib](https://github.com/zephyrproject-rtos/zscilib) - Scientific computing library.
