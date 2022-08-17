@@ -44,8 +44,9 @@
 
 ### Application frameworks
 
-- [arduino-on-zephyr](https://github.com/soburi/arduino-on-zephyr) - Early attempt at an Arduino API layer and distribution through the Arduino IDE.
+- [gsoc-2022-arduino-core](https://github.com/zephyrproject-rtos/gsoc-2022-arduino-core) - Arduino Core API module with an Arduino-C++ style abtraction layer.
 - [chre](https://github.com/zephyrproject-rtos/chre) - Context Hub Runtime Environment (CHRE) is Android’s platform for developing always-on applications, called nanoapps.
+- [control](https://github.com/swedishembedded/control) - A control systems design library written in pure C that provides you with advanced algorithms for control, state estimation and model identification specifically designed for use on embedded systems.
 - [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - ROS 2 for microcontrollers.
 - [open-amp](https://github.com/zephyrproject-rtos/open-amp) - Open Asymmetric Multi Processing (OpenAMP) framework.
 - [Sense-VM](https://github.com/svenssonjoel/Sense-VM) - Bytecode virtual machine for microcontrollers.
