@@ -50,6 +50,7 @@
 - [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - ROS 2 for microcontrollers.
 - [open-amp](https://github.com/zephyrproject-rtos/open-amp) - Open Asymmetric Multi Processing (OpenAMP) framework.
 - [Sense-VM](https://github.com/svenssonjoel/Sense-VM) - Bytecode virtual machine for microcontrollers.
+- [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk) - Swedish Embedded Platform SDK is a comprehensive platform for firmware development.
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - Lightweight standalone WebAssembly (WASM) runtime.
 - [zpp](https://github.com/lowlander/zpp) - C++20 framework.
 
@@ -122,6 +123,7 @@
 - KConfig
 - Make
 - Ninja
+- [Swedish Embedded Platform SDK Docker Image](https://github.com/swedishembedded/develop) - Docker containers for CI & development.
 
 ### Compilers
 
