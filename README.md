@@ -187,6 +187,7 @@ Note: the official SDK includes several compilers.
 
 - [Tutorial for Beginners](https://github.com/maksimdrachov/zephyr-rtos-tutorial)
 - [Nordic Developer Academy](https://www.nordicsemi.com/Support/Nordic-Developer-Academy)
+- [Ultimate Embedded Firmware DevOps Infrastructure](https://www.udemy.com/course/ultimate-embedded-firmware-devops-infrastructure/)
 
 
 ## Contribute
