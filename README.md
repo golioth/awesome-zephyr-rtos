@@ -99,7 +99,7 @@
 ### Misc
 
 - [ecfw-zephyr](https://github.com/intel/ecfw-zephyr) - Embedded Controller for low-level tasks on a motherboard like power sequencing.
-- [grbl](https://github.com/iwasz/zephyr-grbl) -Motion control for CNC milling.
+- [grbl](https://github.com/iwasz/zephyr-grbl) - Motion control for CNC milling.
 - [lvgl](https://github.com/zephyrproject-rtos/lvgl) - Complete graphics library.
 - [lz4](https://github.com/zephyrproject-rtos/lz4) - Extremely Fast Compression algorithm.
 - [pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr) - Smartwatch operating system.
@@ -138,13 +138,19 @@ Note: the official SDK includes several compilers.
 
 ### Editors & IDEs
 
+#### Visual Studio Code
+
 - [Ardesco-VSCode-Extension](https://github.com/Ericsson/Ardesco-VSCode-Extension) - Ericsson Ardesco device development extension.
-- [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin)
+- [Circuit Dojo Zephyr SDK Tools](https://marketplace.visualstudio.com/items?itemName=circuitdojo.zephyr-tools) - Circuit Dojo designed Zephyr Tools to make getting started with Zephyr a snap.
+- [Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) - A register viewer for CMSIS-SVD files and an RTOS data viewer
 - [nRF Connect for VS Code](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect)
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
 - [VS Code importer](https://github.com/smrtos/Zephyr2VSC)
 - [Zephyrus](https://github.com/tuScale/vscode-zephyrus)
-- [Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) - A register viewer for CMSIS-SVD files and an RTOS data viewer
+
+#### Other Editors & IDEs
+
+- [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin)
 - [CMake Zephyr helpers](https://github.com/thirdpin/Zephyr-CMake-Helpers) - Enhance CMake automation for use with VS Code.
 
 ### Flash, Debug & Test
