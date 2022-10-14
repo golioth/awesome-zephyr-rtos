@@ -120,6 +120,7 @@
 - [bazel2zephyr](https://github.com/GatCode/bazel2zephyr) - Embedded/bare-metal development using bazel.
 - CMake
 - Device Tree
+  - [dtsh](https://github.com/dottspina/dtsh) - Shell-like interface to devicetrees.
 - KConfig
 - Make
 - Ninja
