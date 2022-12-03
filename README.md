@@ -156,6 +156,7 @@ Note: the official SDK includes several compilers.
 
 ### Flash, Debug & Test
 
+- [Aerology](https://github.com/Linaro/aerology) - Inspect Zephyr and TF-M applications, post mortem.
 - Atmel SAM-BA
 - [EDTT (Embedded Device Test Tool)](https://github.com/zephyrproject-rtos/edtt)
 - esptool
