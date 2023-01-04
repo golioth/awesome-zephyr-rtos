@@ -142,7 +142,7 @@ Note: the official SDK includes several compilers.
 #### Visual Studio Code
 
 - [Ardesco-VSCode-Extension](https://github.com/Ericsson/Ardesco-VSCode-Extension) - Ericsson Ardesco device development extension.
-- [Circuit Dojo Zephyr SDK Tools](https://marketplace.visualstudio.com/items?itemName=circuitdojo.zephyr-tools) - Circuit Dojo designed Zephyr Tools to make getting started with Zephyr a snap.
+- [Zephyr Tools for VSCode](https://github.com/circuitdojo/zephyr-tools) - Circuit Dojo designed Zephyr Tools to make getting started with Zephyr a snap.
 - [Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) - A register viewer for CMSIS-SVD files and an RTOS data viewer
 - [nRF Connect for VS Code](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect)
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
