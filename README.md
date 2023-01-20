@@ -13,7 +13,7 @@
 - [Official Resources](#official-resources)
 - [Libraries](#libraries)
 - [Tools](#tools)
-- [Products and Open Source Hardware](#products-and-open-source-hardware)
+- [Open Source Hardware](#open-source-hardware)
 - [Videos](#videos)
 - [Learning Material](#learning-material)
 
@@ -180,7 +180,7 @@ Note: the official SDK includes several compilers.
 - XEN
 
 
-## Products and Open Source Hardware
+## Open Source Hardware
 
 - [ZSWatch](https://github.com/jakkra/ZSWatch) - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
 
