@@ -13,7 +13,7 @@
 - [Official Resources](#official-resources)
 - [Libraries](#libraries)
 - [Tools](#tools)
-- [Products and Open Source Hardware](#hardware)
+- [Products and Open Source Hardware](#products-and-open-source-hardware)
 - [Videos](#videos)
 - [Learning Material](#learning-material)
 
