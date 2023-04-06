@@ -76,6 +76,7 @@
 
 ### Networking & Protocols
 
+- [BACnet Stack](https://github.com/bacnet-stack/bacnet-stack) - BACnet open source protocol stack for embedded systems, Linux, and Windows.
 - [canopennode](https://github.com/zephyrproject-rtos/canopennode) - CANopen Stack.
 - [civetweb](https://github.com/zephyrproject-rtos/civetweb) - Embeddable web server.
 - [CBOR](https://cbor.io/) - Concise Binary Object Representation.
