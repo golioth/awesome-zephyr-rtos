@@ -106,6 +106,7 @@
 - [pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr) - Smartwatch operating system.
 - [zephyr-rust](https://github.com/tylerwhall/zephyr-rust) - API bindings, libstd, and Cargo integration for Rust.
 - [linaro_sensor_pipeline](https://github.com/microbuilder/linaro_sensor_pipeline) - Secure data pipelines.
+- [pysvd2dts](https://github.com/thedigitaledge/pysvd2dts) - Creates a Zephyr Devicetree file from an ARM CMSIS-SVD file.
 - [sof](https://github.com/zephyrproject-rtos/sof) - Audio Digital Signal Processing (DSP) firmware infrastructure and SDK.
 - [spinner](https://github.com/teslabs/spinner) - Motor control firmware based on the Field Oriented Control (FOC) principles.
 - [tflite-micro](https://github.com/zephyrproject-rtos/tflite-micro) - TensorFlow Lite for Microcontrollers.
