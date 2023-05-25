@@ -73,6 +73,7 @@
 - [Memfault](https://github.com/memfault/memfault-firmware-sdk/tree/master/ports/zephyr) - Cloud-based debugging & observability.
 - [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Track personal Bluetooth devices via Apple's massive Find My network.
 - [send-my-sensor](https://github.com/koenvervloesem/send-my-sensor) - Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.
+- [thingset-zephyr-sdk](https://github.com/ThingSet/thingset-zephyr-sdk) - A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.
 
 ### Networking & Protocols
 
