@@ -183,6 +183,9 @@ Note: the official SDK includes several compilers.
 - [Renode](https://zephyr-dashboard.renode.io/)
 - XEN
 
+### Version Control
+
+- [zephyr-pre-commit-hooks](https://github.com/cgnd/zephyr-pre-commit-hooks) - A collection of [pre-commit](https://pre-commit.com/) hooks for use with Zephyr.
 
 ## Open Source Hardware
 
