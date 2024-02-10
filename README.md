@@ -129,6 +129,8 @@
 - Make
 - Ninja
 - [Swedish Embedded Platform SDK Docker Image](https://github.com/swedishembedded/develop) - Docker containers for CI & development.
+- [action-setup-zephyr](https://github.com/zephyrproject-rtos/action-zephyr-setup) - This action initializes a Zephyr based project, downloading the Zephyr SDK and the necessary modules for a West based [Zephyr workspace application](https://docs.zephyrproject.org/latest/develop/application/index.html#zephyr-workspace-app).
+- [Zephyr Container Images](https://github.com/embeddedcontainers/zephyr) - Develop Zephyr applications using OCI-compatible Docker images.
 
 ### Compilers
 
