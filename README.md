@@ -173,7 +173,9 @@ Note: the official SDK includes several compilers.
   - [Web](https://github.com/boogie/mcumgr-web)
 - [OpenOCD](https://github.com/zephyrproject-rtos/openocd)
 - pyOCD
-- [SEGGER](https://github.com/zephyrproject-rtos/segger) / [J-Link](https://github.com/zephyrproject-rtos/libjaylink)
+- [SEGGER](https://github.com/zephyrproject-rtos/segger)
+- [libjaylink](https://github.com/zephyrproject-rtos/libjaylink) - libjaylink is a shared library written in C to access SEGGER J-Link and compatible devices.
+- [jlink-zephyr](https://github.com/zephyrproject-rtos/jlink-zephyr) - Zephyr RTOS plugin for JlinkGDBserver.
 - Twister
 
 ### Simulation
