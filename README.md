@@ -32,7 +32,7 @@
 - [mailing list](https://lists.zephyrproject.org/g/main/subgroups) - Mail & web based mailing list powere by Groups.io.
 - [youtube](https://www.youtube.com/c/ZephyrProject) - Conferences videos and event highlights.
 - [blog](https://www.zephyrproject.org/community/#blog) / [RSS](https://www.zephyrproject.org/category/blog/feed/) - Posts from the project and community.
-- [twitter](https://twitter.com/zephyriot) / [linkedin](https://www.linkedin.com/company/the-zephyr-project) / [facebook](https://www.facebook.com/ZephyrIoT/) - Various social feeds.
+- [twitter](https://twitter.com/zephyriot) / [linkedin](https://www.linkedin.com/company/the-zephyr-project) / [facebook](https://www.facebook.com/ZephyrIoT/) / [mastodon](https://social.lfx.dev/@zephyr) - Various social feeds.
 - [newsletter](https://www.zephyrproject.org/newsletter/) - Quarterly newsletter.
 - [ambassadors](https://www.zephyrproject.org/ambassadors/) - List of community experts.
 - [vulnerability alert registry](https://www.zephyrproject.org/vulnerability-registry/) - Email notifications of vulnerabilties.
@@ -74,6 +74,7 @@
 - [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Track personal Bluetooth devices via Apple's massive Find My network.
 - [send-my-sensor](https://github.com/koenvervloesem/send-my-sensor) - Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.
 - [thingset-zephyr-sdk](https://github.com/ThingSet/thingset-zephyr-sdk) - A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.
+- [zephyrus](https://github.com/mustafaabdullahk/zephyrus) - A lightweight C library for exposing Prometheus metrics in Zephyr applications.
 
 ### Networking & Protocols
 
