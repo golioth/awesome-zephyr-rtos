@@ -51,7 +51,6 @@
 - [open-amp](https://github.com/zephyrproject-rtos/open-amp) - Open Asymmetric Multi Processing (OpenAMP) framework.
 - [Sense-VM](https://github.com/svenssonjoel/Sense-VM) - Bytecode virtual machine for microcontrollers.
 - [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk) - Swedish Embedded Platform SDK is a comprehensive platform for firmware development.
-- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - Lightweight standalone WebAssembly (WASM) runtime.
 - [zpp](https://github.com/lowlander/zpp) - C++20 framework.
 
 ### Filesystem
@@ -75,6 +74,12 @@
 - [send-my-sensor](https://github.com/koenvervloesem/send-my-sensor) - Upload sensor data from a device without internet connection by (ab)using Apple's Find My network.
 - [thingset-zephyr-sdk](https://github.com/ThingSet/thingset-zephyr-sdk) - A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.
 - [zephyrus](https://github.com/mustafaabdullahk/zephyrus) - A lightweight C library for exposing Prometheus metrics in Zephyr applications.
+
+### Languages & Runtimes
+
+- [lispBM](https://github.com/svenssonjoel/lispBM) - LispBM is a lisp or scheme like programming language for microcontrollers.
+- [micropython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems.
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - Lightweight standalone WebAssembly (WASM) runtime.
 
 ### Networking & Protocols
 
@@ -114,6 +119,7 @@
 - [spinner](https://github.com/teslabs/spinner) - Motor control firmware based on the Field Oriented Control (FOC) principles.
 - [tflite-micro](https://github.com/zephyrproject-rtos/tflite-micro) - TensorFlow Lite for Microcontrollers.
 - [zbus](https://github.com/zephyr-bus/zbus) - Inter thread communication bus.
+- [zephyr-usb-midi](https://github.com/stuffmatic/zephyr-usb-midi) - This is a USB MIDI 1.0 device class driver for the Zephyr RTOS, which allows sending and receiving MIDI data (including system exclusive messages) over USB.
 - [zscilib](https://github.com/zephyrproject-rtos/zscilib) - Scientific computing library.
 - [zcalendar](https://github.com/bpbradley/zcalendar) - Calendar API with RTC integration.
 - [zmk](https://github.com/zmkfirmware/zmk) - Keyboard firmware with a rich featureset and broad hardware support.
@@ -194,6 +200,7 @@ Note: the official SDK includes several compilers.
 
 ## Open Source Hardware
 
+- [ZMK](https://github.com/zmkfirmware/zmk) - ZMK Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).
 - [ZSWatch](https://github.com/jakkra/ZSWatch) - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
 
 ## Videos
