@@ -160,6 +160,7 @@ Note: the official SDK includes several compilers.
 - [nRF Connect for VS Code](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect)
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
 - [VS Code importer](https://github.com/smrtos/Zephyr2VSC)
+- [zephyr-ide](https://github.com/mylonics/zephyr-ide) - The Zephyr IDE for VS code extension provides tools to aide in your Zephyr Project work flow.
 - [Zephyrus](https://github.com/tuScale/vscode-zephyrus)
 
 #### Other Editors & IDEs
