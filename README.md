@@ -7,6 +7,8 @@
 
 [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
+> [!NOTE]  
+> The Zephyr Project has started to maintain an [awesome list](https://github.com/zephyrproject-rtos/awesome-zephyr-rtos). We encourage you to check it out and contribute.
 
 ## Contents
 
