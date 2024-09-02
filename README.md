@@ -55,6 +55,10 @@
 - [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk) - Swedish Embedded Platform SDK is a comprehensive platform for firmware development.
 - [zpp](https://github.com/lowlander/zpp) - C++20 framework.
 
+### Containerization
+
+- [ocre](https://github.com/project-ocre/ocre-runtime) - OCI compliant application container runtime.
+
 ### Filesystem
 
 - [fats](https://github.com/zephyrproject-rtos/fatfs) - Generic FAT/exFAT filesystem module for small embedded systems.
