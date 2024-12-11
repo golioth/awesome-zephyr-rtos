@@ -214,6 +214,7 @@ Note: the official SDK includes several compilers.
 ## Videos
 
 - [Introducing a New Zephyr Sensing Subsystem 2023](https://www.youtube.com/watch?v=iHfeAqtPSnA)
+- [How I Fell in Love with Zephyr – a System Architect’s Tale (2023)](https://www.youtube.com/watch?v=rG4rC5oLx7Y)
 - [Zephyr Developer Summit - June 2021](https://www.youtube.com/playlist?list=PLzRQULb6-ipG39tVb-DEkIoSS5wQlbK6i)
 - [Embedded Linux Conference/Open Source Summit (Sept. 2021)](https://www.youtube.com/playlist?list=PLzRQULb6-ipEfltSXvM0xBuU84B8-sum7)
 - [Zephyr videos from Golioth](https://www.youtube.com/playlist?list=PLXGira7Qd83DljhI7F3euGgsf4hbvhoNp)
