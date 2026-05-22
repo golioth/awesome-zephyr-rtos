@@ -225,6 +225,7 @@ Note: the official SDK includes several compilers.
 
 - [Tutorial for Beginners](https://github.com/maksimdrachov/zephyr-rtos-tutorial)
 - [Nordic Developer Academy](https://www.nordicsemi.com/Support/Nordic-Developer-Academy)
+- [TutorialSearch](https://tutorialsearch.io/browse/data-science/real-time-analytics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Ultimate Embedded Firmware DevOps Infrastructure](https://www.udemy.com/course/ultimate-embedded-firmware-devops-infrastructure/)
 
 
