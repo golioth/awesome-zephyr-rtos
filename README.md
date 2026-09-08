@@ -103,6 +103,7 @@
 - [openthread](https://github.com/zephyrproject-rtos/openthread) - Thread mesh networking protocol.
 - [pjon](https://github.com/gioblu/PJON) - Multi-master, multi-media network protocol.
 - [S2OPC](https://gitlab.com/systerel/S2OPC) - Open-source OPC-UA Toolkit designed with security and embedded devices in mind.
+- [Xaloqi EDS](https://github.com/Xaloqi/EDS) - ISO 14229 (UDS) diagnostics stack with ISO-TP and DoIP transports, ASIL-B safety wrappers, and YAML-driven code generation for CAN-capable boards.
 
 ### Security
 
